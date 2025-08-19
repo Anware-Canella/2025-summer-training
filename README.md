@@ -1,2 +1,3 @@
 # 2025-summer-training
-school projectdon't look at it
+school project
+don't look at it
